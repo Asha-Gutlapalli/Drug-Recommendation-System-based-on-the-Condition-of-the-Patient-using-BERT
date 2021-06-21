@@ -1,0 +1,11 @@
+wget
+numpy
+pandas
+sklearn
+torch
+transformers
+seaborn
+plotly
+matplotlib
+streamlit
+pymongo

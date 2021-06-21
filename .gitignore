@@ -1,0 +1,17 @@
+# python
+__pycache__
+
+# vscode
+.vscode
+
+# streamlit
+.streamlit
+
+# datasets
+.data
+
+# models
+.models
+
+# notebook checkpoints
+notebooks/.ipynb_checkpoints
